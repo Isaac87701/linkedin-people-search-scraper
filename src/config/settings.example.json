@@ -1,0 +1,10 @@
+{
+  "search_url": "https://www.linkedin.com/search/results/people/?keywords=software%20engineer&origin=GLOBAL_SEARCH_HEADER&page=1",
+  "cookie_mode": "string",
+  "cookies_json_path": null,
+  "cookie_string": "li_at=YOUR_SESSION_TOKEN; JSESSIONID=ajax:123456789;",
+  "min_delay_ms": 800,
+  "max_delay_ms": 1800,
+  "max_pages": 3,
+  "output_path": "data/sample_output.json"
+}
